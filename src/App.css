@@ -35,21 +35,23 @@
 }
 
 .App-intro {
-  text-align: center;
+  text-align:  center;
   font-size: 25px;
 }
 
 .App-week {
-  margin: 40px;
+  margin-left: 10px;
   font-size: 20px;
-  padding: 1px;
+  margin-bottom: justify;
+  height: 20px;
 
 }
 
 .App-week-tasks {
-  margin: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-bottom: 0%;
   font-size: 15px;
-  padding: 1px;
 
 }
 

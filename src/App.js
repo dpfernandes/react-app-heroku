@@ -25,20 +25,21 @@ class App extends Component {
           W02 - 07/10 (Sprint 01)
         </p>
         <p className="App-week-tasks">
-          - Presentation of the Mockups previously given by the mentors and start with the UI development for Main Menu, Search by text, Calendar and Geolocation map for Jobs, Events, Shadows and Organisations using Storybook.io.
+          - Presentation of the Mockups previously given by the mentors and start with the UI development for Main Menu, Search by text, Calendar 
+          and Geolocation map for Jobs, Events, Shadows and Organisations using Storybook.io.
         </p>  
         <p className="App-week"> 
            W03 - 14/10 (Sprint 02)
         </p>
         <p className="App-week-tasks">
           - Build Menu View with React and based on the Views previously created with the Storybook.io;
-          </p>
+        </p>
         <p className="App-week-tasks">
           - Built List Views with React using the APIs structure for Job ads, Events and Organisations to list the information;
-          </p>
+        </p>
         <p className="App-week-tasks">
           - Built Search View with React using the Elastic Search previously set up by the mentors;
-          </p>
+        </p>
         <p className="App-week-tasks">
           - Built List View with for Calendar using the API's structure for Shadows and their availability.
         </p>
@@ -47,17 +48,15 @@ class App extends Component {
         </p>
         <p className="App-week-tasks">
           - Create the DB based on the Data Model previously given by the mentors;
-          </p>
+        </p>
         <p className="App-week-tasks">
           - Built Insertion and Edit Views for Job ads, Events, Shadows and Organisations that generate a JSON file for each insertion;
-          </p>
+        </p>
         <p className="App-week-tasks">
           - Create procedures in the DB that get the JSON files from the Insertion View and Edit View and insert or modify the data into the tables;
-          </p>
+        </p>
         <p className="App-week-tasks">
           Note: Deletion will be handled by Active and Inactive State.
-          </p>
-        <p className="App-week-tasks">
         </p>
         <p className="App-week"> 
           W05 - 28/10 (Sprint 04)
