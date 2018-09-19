@@ -31,14 +31,14 @@ class App extends Component {
           <p className="App-intro">
         
             <ul className="header">
-              <li><NavLink exact to="/">Home</NavLink></li>
-              <li><NavLink to="/goals">Goals</NavLink></li>
-              <li><NavLink to="/agenda">Agenda</NavLink></li>
-              <li><NavLink to="/groups">Work Groups</NavLink></li>
-              <li><NavLink to="/mockaroo">Mockaroo</NavLink></li>
-              <li><NavLink to="/stories">User Stories</NavLink></li>
-              <li><NavLink to="/articles">Articles</NavLink></li>
-              <li><NavLink to="/tools-tech">Tools &amp; Technologies</NavLink></li>
+              <li><NavLink exact to="/">Home |</NavLink></li>
+              <li><NavLink to="/goals">Goals |</NavLink></li>
+              <li><NavLink to="/agenda">Agenda |</NavLink></li>
+              <li><NavLink to="/groups">Work Groups |</NavLink></li>
+              <li><NavLink to="/mockaroo">Mockaroo |</NavLink></li>
+              <li><NavLink to="/stories">User Stories |</NavLink></li>
+              <li><NavLink to="/articles">Articles |</NavLink></li>
+              <li><NavLink to="/tools-tech">Tools &amp; Technologies | </NavLink></li>
             </ul>
             <div className="content">
               <Route exact path="/" component={Home}/>
