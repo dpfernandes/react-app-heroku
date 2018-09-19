@@ -8,13 +8,13 @@ import {
           BrowserRouter
         } from "react-router-dom";
 import Home from "./menu/Home";
-import Goals from ".//menu/Goals";
-import Agenda from ".//menu/Agenda";
-import Groups from ".//menu/Groups";
-import Mockaroo from ".//menu/Mockaroo";
-import Stories from ".//menu/Stories";
-import Articles from ".//menu/Articles";
-import Toolstech from ".//menu/Toolstech";
+import Goals from "./menu/Goals";
+import Agenda from "./menu/Agenda";
+import Groups from "./menu/Groups";
+import Mockaroo from "./menu/Mockaroo";
+import Stories from "./menu/Stories";
+import Articles from "./menu/Articles";
+import Toolstech from "./menu/Toolstech";
 
 
 class App extends Component {
@@ -31,7 +31,7 @@ class App extends Component {
           <p className="App-intro">
         
             <ul className="header">
-              <li><NavLink exact to="/">Home |</NavLink></li>
+              <li><NavLink exact to="/">Home |3223</NavLink></li>
               <li><NavLink to="/goals">Goals |</NavLink></li>
               <li><NavLink to="/agenda">Agenda |</NavLink></li>
               <li><NavLink to="/groups">Work Groups |</NavLink></li>
