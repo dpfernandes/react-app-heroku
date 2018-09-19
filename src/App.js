@@ -31,7 +31,7 @@ class App extends Component {
           <p className="App-intro">
         
             <ul className="header">
-              <li><NavLink exact to="/">Home |3223</NavLink></li>
+              <li><NavLink exact to="/">Home |</NavLink></li>
               <li><NavLink to="/goals">Goals |</NavLink></li>
               <li><NavLink to="/agenda">Agenda |</NavLink></li>
               <li><NavLink to="/groups">Work Groups |</NavLink></li>
