@@ -56,7 +56,9 @@ class Agenda extends Component {
                     W07 - 11/11
                   </p>
                   <ul className="App-week-tasks">
-                    <li className="App-week-tasks-item"> Preparation for the graduation presentations.</li>
+                    <li className="App-week-tasks-item"> Preparation for the graduation presentations;</li>
+                    <li className="App-week-tasks-item">  Review of the student's Linkedin and GitHub repo;</li>
+                    <li className="App-week-tasks-item">  Guidelines to how to write an attractive CV.</li>
                   </ul>
                   <p className="App-week"> 
                     W08 - 18/11
