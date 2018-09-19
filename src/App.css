@@ -3,25 +3,29 @@
   word-spacing: 0px;
 }
 
-/*
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-*/
-
-
 .App-logoThread
 {
   height: 80px;
   text-align: center;
 }
 
+.github-icon
+{
+  width: 50px;
+  height: 25px;
+  text-align: center;
+}
+
+.linkedin-icon
+{
+  width: 50px;
+  height: 25px;
+  text-align: center;
+}
+
 .App-header {
   text-align: center;
-  background-color: #222;
+  background-color: #111;
   height: 150px;
   padding: 20px;
   color: white;
@@ -35,27 +39,25 @@
 }
 
 .App-intro {
-  text-align:  center;
+  text-align: center;
   font-size: 25px;
 }
 
 .App-week {
+  text-align: left;
   margin-left: 10px;
   font-size: 20px;
   margin-bottom: justify;
   height: 20px;
-
 }
 
 .App-week-tasks {
+  text-align: left;
   margin-left: 30px;
   margin-right: 30px;
   padding-bottom: 0%;
   font-size: 15px;
-
 }
-
-
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
