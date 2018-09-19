@@ -43,7 +43,7 @@ class Agenda extends Component {
                     W05 - 28/10 (Sprint 04)
                   </p>
                   <ul className="App-week-tasks">
-                  <li className="App-week-tasks-item"> Built Map View with React for the geolocations for the Jobs, Events, Shadows and Organisations and pin down the geolocations.</li>
+                  <li className="App-week-tasks-item"> Built Map View with React for the geolocations for the Jobs, Events, Shadows and Organisations and pin down the geolocations;</li>
                   <li className="App-week-tasks-item"> Pin down your own location on the map.</li>
                   </ul>
                   <p className="App-week"> 
