@@ -119,7 +119,10 @@ class Groups extends Component {
                   <img src={linkedin} className="linkedin-icon" alt="linkedin-icon"/>  
               </a>Ibrahim Kadoura  
        </div>
-  
+       <div>
+           <img src="http://ghchart.rshah.org/ibrsal" alt="ibrsal Github chart" />
+       </div>
+
 
 
 
