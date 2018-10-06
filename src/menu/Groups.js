@@ -30,7 +30,10 @@ class Groups extends Component {
         <div class="content-desc">
             <a href="https://github.com/ibrsal/">
                 <img src={github} className="github-icon" alt="github-icon"/>
-          </a>Ibrahim Kadoura     
+          </a>   
+          <a href="https://www.linkedin.com/in/ibrahim-salah-432264171/">
+                  <img src={linkedin} className="linkedin-icon" alt="linkedin-icon"/>  
+              </a>Ibrahim Kadoura  
        </div>
        <div>
         <img src="http://ghchart.rshah.org/ibrsal" alt="ibrsal's Github chart" />
@@ -55,7 +58,10 @@ class Groups extends Component {
        <div class="content-desc">
          <a href="https://github.com/Majd-Darraj">
                 <img src={github} className="github-icon" alt="github-icon"/>
-         </a>Majd Darraj  
+                </a>
+             <a href="https://www.linkedin.com/in/majd-darraj-39ab9399/">
+                  <img src={linkedin} className="linkedin-icon" alt="linkedin-icon"/>  
+              </a>Majd Darraj 
        </div>
        <div>
            <img src="http://ghchart.rshah.org/Majd-Darraj" alt="Majd-Darraj's Github chart" />
